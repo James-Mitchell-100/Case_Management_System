@@ -1,0 +1,20 @@
+﻿<Window x:Class="Case_Management_System.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Case_Management_System"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="365.909" Width="525">
+    <Grid>
+        <Button x:Name="SpamAndInitialReview" Content="Spam and Initial Review" HorizontalAlignment="Left" Height="34" VerticalAlignment="Top" Width="180" Margin="10,55,0,0"/>
+        <Button x:Name="Clients" Content="Clients" HorizontalAlignment="Left" Height="34" VerticalAlignment="Top" Width="180" Margin="10,94,0,0"/>
+        <Button x:Name="Workflow" Content="Workflow" HorizontalAlignment="Left" Width="180" Margin="10,133,0,166"/>
+        <Button x:Name="DashboardWebsites" Content="Dashboard -- Websites" HorizontalAlignment="Left" Width="180" Margin="10,0,0,127" Height="34" VerticalAlignment="Bottom"/>
+        <Button x:Name="DashboardClients" Content="Dashboard -- Clients" HorizontalAlignment="Left" Width="180" Margin="10,0,0,88" Height="34" VerticalAlignment="Bottom"/>
+        <Button x:Name="MiscButton" Content="Miscellaneous" HorizontalAlignment="Left" Width="180" Margin="10,0,0,49" Height="34" VerticalAlignment="Bottom"/>
+        <Button x:Name="ExitButton" Content="Exit CMS" HorizontalAlignment="Left" Width="180" Margin="10,0,0,10" Height="34" VerticalAlignment="Bottom" Click="ExitCMS_Click"/>
+        <TextBlock x:Name="textBlock" Height="20" Margin="10,30,229,0" TextWrapping="Wrap" Text="Main Menu" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock_Copy" Height="20" Margin="10,5,229,0" TextWrapping="Wrap" Text="Case Management System" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

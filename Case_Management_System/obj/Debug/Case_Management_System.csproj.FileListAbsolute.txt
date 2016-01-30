@@ -1,0 +1,16 @@
+C:\Our Code\Case_Management_System\Case_Management_System\bin\Debug\Case_Management_System.exe.config
+C:\Our Code\Case_Management_System\Case_Management_System\bin\Debug\Case_Management_System.exe
+C:\Our Code\Case_Management_System\Case_Management_System\bin\Debug\Case_Management_System.pdb
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\Case_Management_System.csprojResolveAssemblyReference.cache
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\MainWindow.g.cs
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\Window1.g.cs
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\App.g.cs
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\Case_Management_System_MarkupCompile.cache
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\Case_Management_System_MarkupCompile.lref
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\MainWindow.baml
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\Window1.baml
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\Case_Management_System.g.resources
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\Case_Management_System.Properties.Resources.resources
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\Case_Management_System.csproj.GenerateResource.Cache
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\Case_Management_System.exe
+C:\Our Code\Case_Management_System\Case_Management_System\obj\Debug\Case_Management_System.pdb
